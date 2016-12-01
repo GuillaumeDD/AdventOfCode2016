@@ -6,6 +6,7 @@ Solutions can be ran  from Python 2.7. Inputs of the  problem are in the
 'inputs' directory.
 
 For instance :
+
 	$ python day01.py
 
 # Notes about the Provided Solutions #

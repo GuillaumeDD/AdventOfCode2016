@@ -2,7 +2,7 @@
 This project provides solutions to the [Advent of Code 2016](http://adventofcode.com).
 
 # Installation #
-Solutions can be ran  from Python 2.7. Inputs of the  problem are in the
+Solutions can be ran  from Python 2.7. Inputs of the  problems are in the
 'inputs' directory.
 
 For instance :
@@ -10,8 +10,8 @@ For instance :
 	$ python day01.py
 
 # Notes about the Provided Solutions #
-1. Day 1:  No Time for a Taxicab
-1. Day 2: 
+1. Day 1: No Time for a Taxicab
+1. Day 2: Bathroom Security
 1. Day 3: 
 1. Day 4: 
 1. Day 5: 

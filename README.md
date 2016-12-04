@@ -13,7 +13,7 @@ For instance :
 1. Day 1: No Time for a Taxicab
 1. Day 2: Bathroom Security
 1. Day 3: Squares With Three Sides
-1. Day 4: 
+1. Day 4: Security Through Obscurity
 1. Day 5: 
 1. Day 6: 
 1. Day 7: 

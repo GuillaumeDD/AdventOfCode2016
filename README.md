@@ -14,7 +14,8 @@ For instance :
 1. Day 2: Bathroom Security
 1. Day 3: Squares With Three Sides
 1. Day 4: Security Through Obscurity
-1. Day 5: 
+1. Day 5: How About a Nice Game of Chess?
+   + Usage of hashlib and hexdigest
 1. Day 6: 
 1. Day 7: 
 1. Day 8: 

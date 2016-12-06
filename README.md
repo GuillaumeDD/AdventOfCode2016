@@ -16,7 +16,8 @@ For instance :
 1. Day 4: Security Through Obscurity
 1. Day 5: How About a Nice Game of Chess?
    + Usage of hashlib and hexdigest
-1. Day 6: 
+1. Day 6: Signals and Noise
+   + Usage of collections.Counter
 1. Day 7: 
 1. Day 8: 
 1. Day 9: 

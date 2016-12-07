@@ -18,7 +18,10 @@ For instance :
    + Usage of hashlib and hexdigest
 1. Day 6: Signals and Noise
    + Usage of collections.Counter
-1. Day 7: 
+1. Day 7: Internet Protocol Version 7
+   + Usage of re to split a string given more than one delimiter
+   + Implementation of 'slice_n' for a string (generator of substring of
+     size 'n')
 1. Day 8: 
 1. Day 9: 
 1. Day 10: 

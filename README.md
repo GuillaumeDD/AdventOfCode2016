@@ -22,7 +22,7 @@ For instance :
    + Usage of re to split a string given more than one delimiter
    + Implementation of 'slice_n' for a string (generator of substring of
      size 'n')
-1. Day 8: 
+1. Day 8: Two-Factor Authentication
 1. Day 9: 
 1. Day 10: 
 1. Day 11: 

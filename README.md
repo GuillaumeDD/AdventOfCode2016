@@ -23,7 +23,9 @@ For instance :
    + Implementation of 'slice_n' for a string (generator of substring of
      size 'n')
 1. Day 8: Two-Factor Authentication
-1. Day 9: 
+1. Day 9: Explosives in Cyberspace
+   + Regular expression (via re)
+   + Recursivity
 1. Day 10: 
 1. Day 11: 
 1. Day 12: 

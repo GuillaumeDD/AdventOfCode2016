@@ -26,7 +26,7 @@ For instance :
 1. Day 9: Explosives in Cyberspace
    + Regular expression (via re)
    + Recursivity
-1. Day 10: 
+1. Day 10: Balance Bots
 1. Day 11: 
 1. Day 12: 
 1. Day 13: 

@@ -32,7 +32,9 @@ For instance :
    + Input is manually set in the code
    + Usage of itertools, heapq
    + Usage of immutable datastructure (tuples)
-1. Day 12: 
+1. Day 12: Leonardo's Monorail
+   + Naive solution using regex
+   + Takes some time for part 2
 1. Day 13: 
 1. Day 14:
 1. Day 15:

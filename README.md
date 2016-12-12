@@ -27,7 +27,11 @@ For instance :
    + Regular expression (via re)
    + Recursivity
 1. Day 10: Balance Bots
-1. Day 11: 
+1. Day 11: Radioisotope Thermoelectric Generators
+   + Solution is based on A* algorithm (there is a need to tweak the heuristics)
+   + Input is manually set in the code
+   + Usage of itertools, heapq
+   + Usage of immutable datastructure (tuples)
 1. Day 12: 
 1. Day 13: 
 1. Day 14:

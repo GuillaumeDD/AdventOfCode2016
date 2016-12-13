@@ -35,7 +35,9 @@ For instance :
 1. Day 12: Leonardo's Monorail
    + Naive solution using regex
    + Takes some time for part 2
-1. Day 13: 
+1. Day 13: A Maze of Twisty Little Cubicles
+   + Solution is based on Dijkstra's algorithm
+   + Usage of heapq (PriorityQueue)
 1. Day 14:
 1. Day 15:
 1. Day 16:

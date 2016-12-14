@@ -38,7 +38,10 @@ For instance :
 1. Day 13: A Maze of Twisty Little Cubicles
    + Solution is based on Dijkstra's algorithm
    + Usage of heapq (PriorityQueue)
-1. Day 14:
+1. Day 14: One-Time Pad
+   + Usage of hashlib and hexdigest
+   + Usage of regex backreferences
+   + Caching results of stretch hash for efficiency (part 2)
 1. Day 15:
 1. Day 16:
 1. Day 17:

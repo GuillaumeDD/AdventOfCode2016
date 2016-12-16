@@ -43,7 +43,7 @@ For instance :
    + Usage of regex backreferences
    + Caching results of stretch hash for efficiency (part 2)
 1. Day 15: Timing is Everything
-1. Day 16:
+1. Day 16: Dragon Checksum
 1. Day 17:
 1. Day 18:
 1. Day 19:

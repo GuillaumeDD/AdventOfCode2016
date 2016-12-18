@@ -46,7 +46,7 @@ For instance :
 1. Day 16: Dragon Checksum
 1. Day 17: Two Steps Forward
    + First part: breadth-first search (BFS)
-1. Day 18:
+1. Day 18: Like a Rogue
 1. Day 19:
 1. Day 20:
 1. Day 21:

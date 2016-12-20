@@ -50,7 +50,7 @@ For instance :
 1. Day 19: An Elephant Named Joseph
    + Second  part uses  a double-linked  list for  solving this  kind of
      pop/append problem
-1. Day 20:
+1. Day 20: Firewall Rules
 1. Day 21:
 1. Day 22:
 1. Day 23:

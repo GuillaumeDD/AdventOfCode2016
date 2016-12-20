@@ -47,7 +47,9 @@ For instance :
 1. Day 17: Two Steps Forward
    + First part: breadth-first search (BFS)
 1. Day 18: Like a Rogue
-1. Day 19:
+1. Day 19: An Elephant Named Joseph
+   + Second  part uses  a double-linked  list for  solving this  kind of
+     pop/append problem
 1. Day 20:
 1. Day 21:
 1. Day 22:

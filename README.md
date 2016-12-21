@@ -51,7 +51,8 @@ For instance :
    + Second  part uses  a double-linked  list for  solving this  kind of
      pop/append problem
 1. Day 20: Firewall Rules
-1. Day 21:
+1. Day 21: Scrambled Letters and Hash
+   + Usage of permutations from itertools for part 2 (brute-forcing)
 1. Day 22:
 1. Day 23:
 1. Day 24:

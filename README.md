@@ -53,7 +53,8 @@ For instance :
 1. Day 20: Firewall Rules
 1. Day 21: Scrambled Letters and Hash
    + Usage of permutations from itertools for part 2 (brute-forcing)
-1. Day 22:
+1. Day 22: Grid Computing
+   + Part 2 is resolved manually by displaying the grid
 1. Day 23:
 1. Day 24:
 1. Day 25:

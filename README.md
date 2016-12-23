@@ -55,7 +55,9 @@ For instance :
    + Usage of permutations from itertools for part 2 (brute-forcing)
 1. Day 22: Grid Computing
    + Part 2 is resolved manually by displaying the grid
-1. Day 23:
+1. Day 23: Safe Cracking
+   + Reusing solution of day 12
+   + Part 2 is solved by hacking the interpreter between line 4 and 10
 1. Day 24:
 1. Day 25:
 

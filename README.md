@@ -58,7 +58,8 @@ For instance :
 1. Day 23: Safe Cracking
    + Reusing solution of day 12
    + Part 2 is solved by hacking the interpreter between line 4 and 10
-1. Day 24:
+1. Day 24: Air Duct Spelunking
+   + Reusing implementation of day 13 (Dijkstra's algorithm)
 1. Day 25:
 
 # License #

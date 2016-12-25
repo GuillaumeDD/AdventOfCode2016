@@ -60,8 +60,11 @@ For instance :
    + Part 2 is solved by hacking the interpreter between line 4 and 10
 1. Day 24: Air Duct Spelunking
    + Reusing implementation of day 13 (Dijkstra's algorithm)
-1. Day 25:
-
+1. Day 25: Clock Signal
+   + Adapting solutions of day 12 and 23
+   +  Solutions is  found by  brute-forcing and  checking the  first 100
+     generated items
+   
 # License #
 GPLv3 - see the COPYING file.
 
